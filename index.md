@@ -1,4 +1,4 @@
-# Welcome to my Notes
+# Welcome to My Notes
 
 
 ```You can use the [editor on GitHub](https://github.com/PipsqueakLai/Record/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
